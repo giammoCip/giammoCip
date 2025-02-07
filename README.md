@@ -16,3 +16,7 @@ Se vuoi collaborare o discutere di sicurezza informatica, sentiti libero di cont
 Qui su GitHub troverai i miei progetti legati alla sicurezza informatica, strumenti di automazione e altre soluzioni software su cui sto lavorando.  
 
 Grazie per aver visitato il mio profilo! 😃
+📊 **Statistiche GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giammoCip&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giammoCip&layout=compact&theme=dark)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giammoCip&theme=darkhub&no-bg=true&no-frame=true)  
