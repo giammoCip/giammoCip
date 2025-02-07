@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 sono Gianmarco Cipriani, ho **28 anni** e studio presso il **Dipartimento di Studi Informatici** dell'Università degli Studi di Napoli **Federico II**. Attualmente frequento la **Cyber Hackademy**, dove approfondisco tematiche legate alla **cyber security** e alla sicurezza informatica.
 
-<!--
-**giammoCip/giammoCip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Interessi e competenze**  
+- Cyber Security & Ethical Hacking  
+- Sviluppo Software & Automazione  
+- Programmazione e Sistemi Operativi  
+- Sicurezza delle Reti  
 
-Here are some ideas to get you started:
+📫 **Contattami**  
+Se vuoi collaborare o discutere di sicurezza informatica, sentiti libero di contattarmi!  
+📧 Email: [gianmarco.cipriani1@icloud.com]  
+💼 LinkedIn: [Inserisci il tuo profilo LinkedIn]  
+🌐 GitHub: [github.com/giammoCip]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Progetti e Contributi**  
+Qui su GitHub troverai i miei progetti legati alla sicurezza informatica, strumenti di automazione e altre soluzioni software su cui sto lavorando.  
+
+Grazie per aver visitato il mio profilo! 😃
