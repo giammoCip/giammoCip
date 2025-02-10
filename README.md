@@ -1,22 +1,22 @@
-## Hi there 👋 sono Gianmarco Cipriani, ho **28 anni** e studio presso il **Dipartimento di Studi Informatici** dell'Università degli Studi di Napoli **Federico II**. Attualmente frequento la **Cyber Hackademy**, dove approfondisco tematiche legate alla **cyber security** e alla sicurezza informatica.
+Hi there 👋 I'm Gianmarco Cipriani!
+I'm 28 years old and currently studying at the Department of Computer Studies at the University of Naples Federico II. I'm also attending the Cyber Hackademy, where I deepen my knowledge in cyber security and information security.
 
-🔐 **Interessi e competenze**  
-- Cyber Security & Ethical Hacking  
-- Sviluppo Software & Automazione  
-- Programmazione e Sistemi Operativi  
-- Sicurezza delle Reti  
+🔐 Interests & Skills
 
-📫 **Contattami**  
-Se vuoi collaborare o discutere di sicurezza informatica, sentiti libero di contattarmi!  
-📧 Email: [gianmarco.cipriani1@icloud.com]  
-💼 LinkedIn: [Inserisci il tuo profilo LinkedIn]  
-🌐 GitHub: [github.com/giammoCip]  
+Cyber Security & Ethical Hacking
+Software Development & Automation
+Programming & Operating Systems
+Network Security
+📫 Get in Touch
+If you’re interested in collaborating or discussing cybersecurity, feel free to reach out!
+📧 Email: [gianmarco.cipriani1@icloud.com]
+💼 LinkedIn: [Insert your LinkedIn profile]
+🌐 GitHub: [github.com/giammoCip]
 
-🚀 **Progetti e Contributi**  
-Qui su GitHub troverai i miei progetti legati alla sicurezza informatica, strumenti di automazione e altre soluzioni software su cui sto lavorando.  
+🚀 Projects & Contributions
+On my GitHub, you'll find my projects related to cybersecurity, automation tools, and other software solutions I’m working on.
 
-Grazie per aver visitato il mio profilo! 😃
-📊 **Statistiche GitHub**  
+Thanks for visiting my profile! 😃
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giammoCip&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giammoCip&layout=compact&theme=dark)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giammoCip&theme=darkhub&no-bg=true&no-frame=true)  
